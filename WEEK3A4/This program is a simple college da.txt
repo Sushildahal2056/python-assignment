@@ -1,0 +1,3 @@
+This program is a simple college database system created using Python and SQLite with Object-Oriented Programming (OOP). A class named CollegeDB is used to connect to the database and create five tables: Student, Course, Professor, Enrollment, and Teaches. These tables store information about students, courses, professors, and the relationships between them.
+
+The program also includes functions to count the number of students in a course and list the professors teaching a course. In the main program, sample data is inserted and the results show how many students are enrolled in Course 101 and which professors teach Course 102. This project demonstrates basic database design, SQL queries, and OOP concepts.
